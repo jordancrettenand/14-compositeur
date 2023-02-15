@@ -18,14 +18,36 @@ header a {
   font-weight: 400;
 }
 
+header div {
+  text-align: center;
+}
+
 hr {
   border: 1px solid #000;
 }
 
 main div {
   background: #e3c196;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 footer div {
   background: #e3c196;
+  text-align: center;
+}
+
+h2 {
+  font-size: 9px;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+h4 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 13px;
 }
