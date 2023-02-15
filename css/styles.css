@@ -18,6 +18,10 @@ header a {
   font-weight: 400;
 }
 
+hr {
+  border: 1px solid #000;
+}
+
 main div {
   background: #e3c196;
 }
